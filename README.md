@@ -3,7 +3,7 @@
 Link to Lab
 
 
-[LAB 1](/LAB%201/le202.md)
+[LAB 1](/master/LAB%201/le202.md)
 
 [LAB 2](/LAB%202/le202.md)
 
